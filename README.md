@@ -1,4 +1,4 @@
-# Juego-Par-Impar
+# Juego Par-Impar
 Mini juego programado con JavaScript realizado durante el live-coding de Códica.
 
 El código del juego se realizó durante una sesión en vivo. 
