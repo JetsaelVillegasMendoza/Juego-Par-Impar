@@ -1,0 +1,25 @@
+#colPrincipal{
+    background-color: #3b3d3a;
+    color: white;
+    border: solid gray 2px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+#colBoton{
+    background-color: aliceblue;
+    border: solid gray 1px;
+    border-radius: 10px;
+    height: 200px; 
+}
+
+button{
+    background-color: white;
+    border: solid gray 1px;
+    border-radius: 5px;
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
